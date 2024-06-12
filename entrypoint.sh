@@ -6,7 +6,6 @@
 
 set -e
 
-
 # Inicia o SQL Server em background
 /opt/mssql/bin/sqlservr &
 
